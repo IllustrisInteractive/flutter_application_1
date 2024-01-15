@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341281769132",
+    "project_id": "blahaj-d80db",
+    "storage_bucket": "blahaj-d80db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341281769132:android:a75cdc6280edec4839c109",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1j81xDUDhgaz2WQZHli0AoSk-nN4YnxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
